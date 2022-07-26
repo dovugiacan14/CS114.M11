@@ -1,5 +1,5 @@
 # CS114.M11
-Thực Hành và Đồ Án môn Máy Học 
+Practice and Machine Learning subject projects
 
 Preface, I am very glad to be with Mrs.Le Dinh Duy and Mrs.Pham Nguyen Truong An and all members in class CS114.M11 this semester.  
 I promised trying my best to improve my skill during the course and don't copy and cheat while doing homework and exams
